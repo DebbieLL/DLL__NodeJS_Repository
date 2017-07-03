@@ -1,0 +1,15 @@
+{
+  "name": "connecttomongo",
+  "version": "1.0.0",
+  "description": "this is my first nodejs app calling out to Mongo",
+  "main": "mainapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.29",
+    "rsvp": "^3.6.0"
+  }
+}
